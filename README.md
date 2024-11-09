@@ -56,6 +56,6 @@ A taco builder-app! Build your own custom tacos, order, pay and receive them.
 
 ## Contact Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/luis-aguilar-pena/]
+- **LinkedIn:** [https://www.linkedin.com/in/pancho1337]
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
