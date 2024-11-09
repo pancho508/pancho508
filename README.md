@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Luis Aguilar, and I'm a Full Stack Web Developer based in Mexico City. I'm passionate about Web development and love building apps with web technologies.
+My name is Pancho, and I'm a Full Stack Web Developer based in Mexico City. I'm passionate about Web development and love building apps with web technologies.
 
 ## Skills
 
-- **Programming Languages:** I love JavaScript, and Python. I also have some experience giving maintenance to Java applications.
-- **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, etc...
+- **Programming Languages:** I love JavaScript, Typescript and Python. I also have some experience with linux.
+- **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, Neo4j, Kafka, etc...
 - **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,angular,nodejs,express,python,django,git,docker,aws)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,ts,react,vue,angular,nodejs,express,python,django,git,docker,aws](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,angular,nodejs,express,python,django,git,docker,aws,bootstrap,ai,linux,kubernetes,mysql,mongodb))](https://skillicons.dev)
   
 ## Projects
 
