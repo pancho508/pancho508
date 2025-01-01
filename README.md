@@ -25,34 +25,6 @@ My name is Pancho, and I'm a Full Stack Web Developer based in Mexico City. I'm 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nodejs,express,python,postgres,git,docker,aws,linux)](https://skillicons.dev)
 
-  
-## Projects
-
-Here are some of my notable projects:
-
-### [Awesome Newsletter](https://github.com/LuisAguilarPena/awesome-newsletter) WIP
-
-This project is a newsletter sending app. 
-  - Send real emails with attachements
-  - Subscribe users
-  - Users can unsubscribe
-  - Upload pdf's to S3 and more...
-
-### [Air Force Pets](https://github.com/LuisAguilarPena/AFP_Desktop)
-
-Air Force Pets is a fun shmup game that features randomly spawned enemies with an specific pattern and epic boss fights. This project is currently in development and any comment or feedback is greatly appreciated. 
-
-Demo: https://luisaguilar.itch.io/air-force-pets
-
-### [Migration Encounters](https://github.com/migrationEncounters/MigrationEncounters)
-
-Companion website for https://www.nytimes.com/interactive/2021/01/27/opinion/mexico-deportation-immigration-reform.html.
-
-Migration Encounters was an oral history project launched in 2018 as a collaborative research and outreach initiative focusing on returning Mexican migrants.
-
-### [HolaTacos](https://github.com/LuisAguilarPena/HolaTacos)
-
-A taco builder-app! Build your own custom tacos, order, pay and receive them.
 
 ## Contact Me
 
