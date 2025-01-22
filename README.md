@@ -23,7 +23,7 @@ My name is Pancho, and I'm a Full Stack Web Developer based in Mexico City. I'm 
 - **Frameworks/Libraries:** I have worked with React, Node.js, Django, Angular, Vue, Express, Neo4j, Kafka, etc...
 - **Tools/Technologies:** I have experienced with, Git, Docker, AWS, etc...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nodejs,express,python,postgres,git,docker,aws,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,nodejs,express,postgres,mongodb,git,docker,aws,linux,ai)](https://skillicons.dev)
 
 
 ## Contact Me
