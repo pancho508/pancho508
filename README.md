@@ -29,7 +29,7 @@ My name is Pancho, and I'm a Full Stack Web Developer based in Mexico City. I'm 
 ## Contact Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/pancho1337]
-- **Codewars (onDayIllBe1Kyu):** [https://www.codewars.com/users/pancho508]
+- **Codewars (oneDayIllBeUnoKyu):** [https://www.codewars.com/users/pancho508]
 
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
